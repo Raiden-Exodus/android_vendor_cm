@@ -138,7 +138,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Launcher3 \
     Trebuchet \   
-    LockClock \   
+    LockClock    
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
